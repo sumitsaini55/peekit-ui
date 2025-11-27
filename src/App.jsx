@@ -2,6 +2,8 @@ import TrendRow from "./TrendRow";
 
 const data = [
   { source: "Instagram", hot: "Student Exhaustion Meme", rising: "HYROX Fitness Championship", cold: "Winter Reply Humor Trend" },
+  { source: "Tiktok", hot: "Daily Mail Viral Video", rising: "Steezy London Event", cold: "Ellie Lifestyle Trend" },
+  { source: "Instagram", hot: "Student Exhaustion Meme", rising: "HYROX Fitness Championship", cold: "Winter Reply Humor Trend" },
   { source: "Tiktok", hot: "Daily Mail Viral Video", rising: "Steezy London Event", cold: "Ellie Lifestyle Trend" }
 ];
 
