@@ -1,19 +1,19 @@
 import TreandRow from './TreandRow';
 import './App.css';
-import ig from "./assets/instagramm.svg";
-import tt from "./assets/tiktok.svg";
-import yt from "./assets/youtubee.png";
-import gg from "./assets/googlee.png";
+import instagramm from "./assets/instagramm.svg";
+import tiktok from "./assets/tiktok.svg";
+import youtubee from "./assets/youtubee.png";
+import googlee from "./assets/googlee.png";
 
 function App() {
 
 
 const data = [
-  { source: "Instagram", logo: ig, hot: "Arjun Kapoor Memes & ESL Conversational Tips", rising: "Donald Trump Speech Controversy & Military Strategy", cold: "Churros & Comfort Food Experience at Charly's" },
-  { source: "TikTok", logo: tt, hot: "LALIGA UK Football Highlights & Drama", rising: "ilovemymutualssomuch: Trending comedic skits", cold: "nxetj: Viral UKX topics" },
-  { source: "Youtube", logo: yt, hot: "Ranking the Funniest News Report Bloopers Part 2", rising: "SIDEMEN AMONG US BUT HALF THE LOBBY ARE JESTERS", cold: "Parking Wardens Hate This Trick" },
-  { source: "Google", logo: gg, hot: "Millions of savers and investors to face higher tax bills after Reeves’s budget", rising: "Rachel Reeves targets UK’s wealthiest in £26bn tax-raising budget | Budget 2025", cold:"Struggling parents rely on food banks despite having jobs"},
-  { source: "TikTok", logo: tt, hot: "LALIGA UK Football Highlights & Drama", rising: "ilovemymutualssomuch: Trending comedic skits", cold: "nxetj: Viral UKX topics" },
+  { source: "Instagram", logo: instagramm, hot: "Arjun Kapoor Memes & ESL Conversational Tips", rising: "Donald Trump Speech Controversy & Military Strategy", cold: "Churros & Comfort Food Experience at Charly's" },
+  { source: "TikTok", logo: tiktok, hot: "LALIGA UK Football Highlights & Drama", rising: "ilovemymutualssomuch: Trending comedic skits", cold: "nxetj: Viral UKX topics" },
+  { source: "Youtube", logo: youtubee, hot: "Ranking the Funniest News Report Bloopers Part 2", rising: "SIDEMEN AMONG US BUT HALF THE LOBBY ARE JESTERS", cold: "Parking Wardens Hate This Trick" },
+  { source: "Google", logo: googlee, hot: "Millions of savers and investors to face higher tax bills after Reeves’s budget", rising: "Rachel Reeves targets UK’s wealthiest in £26bn tax-raising budget | Budget 2025", cold:"Struggling parents rely on food banks despite having jobs"},
+  { source: "TikTok", logo: tiktok, hot: "LALIGA UK Football Highlights & Drama", rising: "ilovemymutualssomuch: Trending comedic skits", cold: "nxetj: Viral UKX topics" },
 ];
 
 
