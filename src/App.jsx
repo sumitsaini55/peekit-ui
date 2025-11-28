@@ -1,9 +1,9 @@
 import TreandRow from './TreandRow';
 import './App.css';
-import ig from "./assets/instagram.svg";
+import ig from "./assets/instagramm.svg";
 import tt from "./assets/tiktok.svg";
-import yt from "./assets/youtube.png";
-import gg from "./assets/google.png";
+import yt from "./assets/youtubee.png";
+import gg from "./assets/googlee.png";
 
 function App() {
 
